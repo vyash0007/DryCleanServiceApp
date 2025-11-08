@@ -1,0 +1,176 @@
+{
+  "categories": [
+    {
+      "id": "dry-clean",
+      "name": "Dry Clean Rates",
+      "services": [
+        {
+          "id": "dry-cleaning",
+          "icon": "shirt",
+          "name": "Dry Cleaning",
+          "description": "We use various best available technology and machines to increase the longevity of your favourite...",
+          "price": 82,
+          "unit": "pc",
+          "features": [
+            "Wetcleaning Treatment",
+            "Spotting",
+            "Individual Packing"
+          ]
+        },
+        {
+          "id": "leather-jacket",
+          "icon": "jacket",
+          "name": "Jacket Cleaning",
+          "description": "We use the latest technology and advanced machinery to ensure optimal preservation, extending...",
+          "price": 353,
+          "unit": "pc",
+          "features": [
+            "Spot Treatment",
+            "Steam Cleaning",
+            "Custom Treatment",
+            "Drying & Finishing"
+          ]
+        },
+        {
+          "id": "shoe-cleaning",
+          "icon": "shoe",
+          "name": "Shoe Cleaning",
+          "description": "Shoe speaks louder than words. Our meticulous shoe cleaning service, combines advanced...",
+          "price": 353,
+          "unit": "pair",
+          "features": [
+            "Sports / Leather / Suede",
+            "Pre-Treatment and Cleaning",
+            "Polishing and Finishing",
+            "Deodorizing and Disinfecting"
+          ]
+        },
+        {
+          "id": "bag-cleaning",
+          "icon": "bag",
+          "name": "Bag Cleaning",
+          "description": "Cleaning a handbag or any other accessories, such as purses or clutches is a no brainer now....",
+          "price": 495,
+          "unit": "pc",
+          "features": [
+            "Surface and Interior Cleaning",
+            "Stain Removal",
+            "Handle and Hardware Care",
+            "Polishing"
+          ]
+        },
+        {
+          "id": "sofa-cleaning",
+          "icon": "sofa",
+          "name": "Sofa Cleaning",
+          "description": "Sofa cleaning expert care that breathes new life into your upholstery, creating a welcoming and...",
+          "price": 329,
+          "unit": "seat",
+          "features": [
+            "Foaming",
+            "Hot Air/Dryer",
+            "Spotting",
+            "Vacuum Cleaning"
+          ]
+        },
+        {
+          "id": "carpet-cleaning",
+          "icon": "carpet",
+          "name": "Carpet Cleaning",
+          "description": "Innovative method will ward against emission disruption to the air, into your carpets, making it...",
+          "price": 27,
+          "unit": "sqft",
+          "features": [
+            "Vacuuming and Steam Cleaning",
+            "Low-Moisture Cleaning",
+            "Spot Treatment",
+            "Brushing/Agitation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wash-rates",
+      "name": "Wash Rates",
+      "services": [
+        {
+          "id": "wash-only-service",
+          "icon": "washing",
+          "name": "Wash Only Service",
+          "description": "We ensure a gentle wash, your clothes emerge not just clean but refreshed, ensuring a crisp...",
+          "price": 70,
+          "unit": "kg",
+          "features": [
+            "Washing",
+            "Bundle Packing",
+            "Normal Service"
+          ]
+        },
+        {
+          "id": "wash-iron-service",
+          "icon": "iron",
+          "name": "Wash+Iron Service",
+          "description": "We take care of the art from loading washing machines and premium detergents for wash...",
+          "price": 105,
+          "unit": "kg",
+          "features": [
+            "Bundle Packing",
+            "Normal Service"
+          ]
+        },
+        {
+          "id": "organic-laundry-service",
+          "icon": "eco-laundry",
+          "name": "Organic Laundry Service",
+          "description": "We use a greener eco-friendly approach with our laundry service, where eco-friendly practices...",
+          "price": 141,
+          "unit": "kg",
+          "features": [
+            "Eco Friendly Chemicals",
+            "Wash & Iron",
+            "Polybag free packing",
+            "Normal Service"
+          ]
+        },
+        {
+          "id": "premium-laundry-service",
+          "icon": "premium",
+          "name": "Premium Laundry Service",
+          "description": "Make it a lavish experience and not just service with our premium service as we offer meticulous...",
+          "price": 158,
+          "unit": "kg",
+          "features": [
+            "Wash and Iron",
+            "Collar & Cuff Cleaning",
+            "Spotting",
+            "Multi Packing"
+          ]
+        },
+        {
+          "id": "curtain-wash-service",
+          "icon": "curtain",
+          "name": "Curtain Wash Service",
+          "description": "Our professional curtain wash service is designed to remove dust, stains and odours to give...",
+          "price": 150,
+          "unit": "kg",
+          "features": [
+            "Exclusive Curtain Care",
+            "Wash & Iron"
+          ]
+        },
+        {
+          "id": "woolen-wash-service",
+          "icon": "wool",
+          "name": "Woolen Wash Service",
+          "description": "Give your woollens the love they deserve with our gentle wash service, keeping them...",
+          "price": 146,
+          "unit": "kg",
+          "features": [
+            "Woolen Care Wash",
+            "Normal Service"
+          ]
+        }
+      ]
+    }
+  ]
+}

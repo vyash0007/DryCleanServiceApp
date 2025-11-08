@@ -1,0 +1,44 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Manish Oberoi",
+      "role": "Businessman",
+      "rating": 5,
+      "comment": "Hassle-free laundry at reasonable rates. They pick up clothes from your doorstep and deliver them back to your doorstep. You get notification messages at every step. Totally satisfied with their work. I recommend DryClean to everyone.",
+      "featured": false
+    },
+    {
+      "id": 2,
+      "name": "Shraddha Dev",
+      "role": "Associate, Samsung Electronics",
+      "rating": 5,
+      "comment": "DryClean rocks.....very gud in service nd commitment faster than Domino's. I think they are the best dry cleaner near me.",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Shubhankar Sharma",
+      "role": "IT Professional",
+      "rating": 5,
+      "comment": "I have been a regular customer of DryClean since more than an year. The responsiveness has been great. Their set up seems to have the rare combination of systemic rigour along with individual care. Would surely recommend.",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "name": "Priya Mehta",
+      "role": "Fashion Designer",
+      "rating": 5,
+      "comment": "Exceptional service! They handle delicate fabrics with utmost care. My designer clothes always come back looking brand new. The quality of cleaning is outstanding.",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Rajesh Kumar",
+      "role": "Corporate Executive",
+      "rating": 5,
+      "comment": "Professional and reliable service. Never missed a deadline. The app makes it so easy to schedule pickups and track orders. Highly recommend for busy professionals.",
+      "featured": false
+    }
+  ]
+}
